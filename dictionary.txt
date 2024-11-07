@@ -1,0 +1,1 @@
+{"apple":"A fruit with red or green skin and crisp flesh","book":"A written or printed work consisting of pages"}
