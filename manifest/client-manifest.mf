@@ -1,3 +1,0 @@
-Manifest-Version: 1.0
-Main-Class: DictionaryClient
-Class-Path: lib/json-simple-1.1.1.jar
